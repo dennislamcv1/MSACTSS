@@ -1,5 +1,5 @@
 # MSACTSS
-## Microsoft Azure Cybersecurity Tools and Solutions Specialization
+## Microsoft Azure Cybersecurity Tools and Solutions Specialization (5 course series)
 
 The Microsoft Cybersecurity Tools and Solutions program is designed to teach you the essential skills and knowledge needed to excel in the field of cybersecurity using Microsoft Azure cybersecurity tools and services.
 
